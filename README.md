@@ -26,19 +26,19 @@ This project demonstrates how to perform basic Create, Read, Update, and Delete 
 
 Follow these steps to set up and run the project locally:
 
-1. Clone the repository
+1. Clone the repository:
 git clone https://github.com/yourusername/MyMvcApp.git
 
-2.Navigate into the project folder
+2.Navigate into the project folder:
 cd MyMvcApp
 
-3.Restore dependencies
+3.Restore dependencies:
 dotnet restore
 
-4.Apply database migrations
+4.Apply database migrations:
 dotnet ef database update
 
-5. Run the Application
+5. Run the Application:
 dotnet run
 
 The app will start on:
