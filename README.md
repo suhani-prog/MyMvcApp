@@ -27,7 +27,7 @@ This project demonstrates how to perform basic Create, Read, Update, and Delete 
 Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/MyMvcApp.git
+git clone https://github.com/suhani-prog/MyMvcApp.git
 
 2.Navigate into the project folder:
 cd MyMvcApp
